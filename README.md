@@ -11,5 +11,7 @@ My script currently gets the symbol name and the 24 hour volume and then prints 
 The information is then printed to a text file with the date and time as the name.
 
 My questions are:
+				
 				Which API should I use instead?
+				
 				What analytical data would you like me to store for each symbol?
