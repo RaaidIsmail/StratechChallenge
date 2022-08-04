@@ -7,8 +7,8 @@ https://api-testnet.bybit.com/v2/public/tickers
 
 The problem is that it does not contain the category information or the delta and I am unable to find one that has that information.
 
-My script currently gets the symbol name and the 24 hour volume and then prints the information out in a descending order. 
-I have not yet added a persistance. 
+My script currently gets the symbol name and the 24 hour volume and then prints the information out in a descending order.  
+The information is then printed to a text file with the date and time as the name.
 
 My questions are:
 				Which API should I use instead?
